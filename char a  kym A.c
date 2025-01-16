@@ -12,7 +12,7 @@ int main()
     } else if (a >= 'A' && a <= 'Z') {
         a = a + ('a' - 'A');
     }else {
-        printf("This is not a letter: %c ", a);
+        printf("This is not a PORTOKAL: %c ", a);
         return 0;
     }
 

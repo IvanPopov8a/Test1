@@ -17,6 +17,6 @@ int main()
     }
 
     printf("The letter is: %c\n", a);
-    printf("Towa sa falshiwi chushki");
+    printf("Towa sa falshiwi morkowi");
     return 0;
 }

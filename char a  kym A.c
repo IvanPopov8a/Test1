@@ -13,6 +13,7 @@ int main()
         a = a + ('a' - 'A');
     }else {
         printf("This is not a BANAN: %c ", a);
+        printf("This is not a PORTOKAL: %c ", a);
         return 0;
     }
 
